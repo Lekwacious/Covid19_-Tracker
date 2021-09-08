@@ -1,4 +1,4 @@
-# covid19_monitoring
+# Job Finder App
 
 A new Flutter project.
 
